@@ -1,0 +1,32 @@
+<!doctype html> <!-- instruction to the browser about what version of HTML the page is written in.-->
+<html>
+	<head> <!-- title,scripts, styles, meta information, and more. -->
+    	<meta charset="UTF-8">
+    	<title>Kevin's thing</title>
+            <style>
+                html{
+                    min-height: 100%
+                    }
+                body {
+                    background-image: linear-gradient(#45BCE0,#175263);
+    
+            </style>
+    </head>
+        
+	<body>
+        <h4>Kevin's Thing!</h4>
+        <hr>
+        <h1>Ok, so I watched a movie...</h1>
+        <hr>
+        and so like, what now? It was really emotional and stuff. After I watched it, I had trouble actually doing things since I felt so emotional. By the way, the movie was
+        <b>Kimi No Na Wa</b>, or, as it's known in english, <b>Your Name</b>. It's getting an english dub of the movie and it'll be at <i>Southside Cinemas</i> pretty soon, so I thought I'd check it out. The lead singer who did the soundtrack from a group called <a href="https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ">Radwimps</a> actually spent some time in the states, and so he's actually redoing the soundtrack in english. From what I've heard of it so far, which is all of it, it's just as moving as the original Japanese version.
+        
+        <h3>In case you wanted a sample, here's the main song in Japanese.</h3>
+        <div style="position:relative;height:0;padding-bottom:40%"><iframe src="https://www.youtube.com/embed/vLGQQbjZc5A?ecver=2" width="320" height="90" frameborder="0" style="position:absolute;width:60%;height:100%;left:0" allowfullscreen></iframe></div>
+        <wbr>
+        Here's a button just in case you need something to do while listening to music.
+        <h1></h1>
+        <button name="button"><h6>I do nothing</h6></button>
+        <h3>It's fun to click, ain't it?</h3>
+	</body>
+</html>
